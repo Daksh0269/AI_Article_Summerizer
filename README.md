@@ -27,10 +27,6 @@ Summize is a sleek, modern web application that leverages OpenAI's GPT-4 to tran
 - **🎨 Modern UI** - Glassmorphism design with smooth animations
 - **🔓 Open Source** - Free forever, contribute and customize
 
-## 🎬 Demo
-
-![Summize Demo](https://via.placeholder.com/800x500/4F46E5/FFFFFF?text=Summize+Demo+GIF)
-
 *Experience the magic of instant article summarization*
 
 ## 🛠️ Built With
@@ -180,7 +176,7 @@ We love contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **OpenAI** for providing the powerful GPT-4 API
 - **RapidAPI** for the article extraction service
@@ -191,14 +187,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact & Support
 
 - **Developer**: Daksh
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Issues**: [Report bugs or request features](https://github.com/yourusername/summize/issues)
+- **GitHub**: [@yourusername](https://github.com/Daksh0269)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Daksh**
+**Made by Daksh**
 
 *If you found this project helpful, please give it a ⭐!*
 
