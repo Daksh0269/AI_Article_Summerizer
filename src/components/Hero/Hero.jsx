@@ -3,7 +3,7 @@ import { FiGithub, FiBookmark } from 'react-icons/fi'
 
 const Hero = () => {
   return (
-    <header className='w-full flex justify-center items-center flex-col bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 min-h-screen px-4'>
+    <header className='w-full flex justify-center items-center flex-col bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100  px-4'>
       <nav className='flex justify-between items-center w-full max-w-6xl mb-8 sm:mb-16 pt-4 sm:pt-6'>
         {/* Logo Section */}
         <div className="flex items-center gap-2 sm:gap-3">
@@ -11,7 +11,7 @@ const Hero = () => {
             <FiBookmark className="text-lg sm:text-2xl text-white" />
           </div>
           <span className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-            Summize
+            
           </span>
         </div>
 
@@ -19,13 +19,13 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/Daksh0269/AI_Article_Summerizer", "_blank")
           }
           className='flex items-center gap-1 sm:gap-2 px-3 sm:px-6 py-2 sm:py-3 bg-white/80 backdrop-blur-sm text-gray-700 font-semibold rounded-xl sm:rounded-2xl border-2 border-gray-200 hover:border-gray-300 hover:bg-white transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-[1.02] text-sm sm:text-base'
         >
           <FiGithub className="text-base sm:text-lg" />
-          <span className="hidden xs:inline">GitHub</span>
-          <span className="xs:hidden">Git</span>
+          {/* <span className="hidden xs:inline">GitHub</span> */}
+          {/* <span className="xs:hidden">Git</span> */}
         </button>
       </nav>
 
@@ -39,8 +39,6 @@ const Hero = () => {
         </h1>
         
         <h2 className='mt-6 sm:mt-8 text-base sm:text-xl lg:text-2xl leading-relaxed text-gray-600 max-w-3xl mx-auto px-4 sm:px-0'>
-          Simplify your reading with Summize, an open-source article summarizer
-          that transforms lengthy articles into clear and concise summaries
         </h2>
 
         {/* Feature Pills - Only on Large Screens */}

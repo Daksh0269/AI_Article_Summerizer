@@ -45,7 +45,7 @@ const Demo = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100">
       {/* Header */}
-      <div className="pt-8 sm:pt-12 pb-6 sm:pb-8 text-center px-4">
+      <div className="pt-4 sm:pt-12 pb-3 sm:pb-8 text-center px-4">
         <div className="inline-flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
           <div className="p-2 sm:p-3 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl sm:rounded-2xl shadow-lg">
             <FiBookmark className="text-lg sm:text-2xl text-white" />
@@ -60,7 +60,7 @@ const Demo = () => {
       <div className="flex flex-col items-center justify-start w-full px-3 sm:px-4">
         <div className="w-full max-w-2xl">
           {/* Main Input Section */}
-          <div className="bg-white/80 backdrop-blur-sm rounded-2xl sm:rounded-3xl shadow-xl border border-white/20 p-4 sm:p-8 mb-6 sm:mb-8">
+          <div className="bg-white/80 backdrop-blur-sm rounded-2xl sm:rounded-3xl shadow-xl border border-white/20 p-4 sm:p-8 mb-4 sm:mb-8">
             <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-6">
               {/* URL Input */}
               <div className="relative group">
