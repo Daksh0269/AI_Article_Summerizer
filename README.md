@@ -1,4 +1,4 @@
-# ✨ Summize - AI Article Summarizer
+# AI Article Summarizer
 
 > Transform lengthy articles into digestible insights with the power of OpenAI GPT-4
 
@@ -9,13 +9,13 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**[Live Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/summize/issues) • [Request Feature](https://github.com/yourusername/summize/issues)**
+**[Live Demo]([https://your-demo-link.com](https://ai-summerizer-by-daksh.netlify.app/)) **
 
 </div>
 
-## 🚀 What is Summize?
+## 🚀 What is this summerizer??
 
-Summize is a sleek, modern web application that leverages OpenAI's GPT-4 to transform lengthy articles into clear, concise summaries. Whether you're a researcher, student, or just someone who loves to stay informed, Summize helps you digest information faster than ever.
+It is a sleek, modern web application that leverages OpenAI's GPT-4 to transform lengthy articles into clear, concise summaries. Whether you're a researcher, student, or just someone who loves to stay informed, Summize helps you digest information faster than ever.
 
 ### ✨ Key Features
 
