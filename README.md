@@ -9,7 +9,8 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**[Live Demo]([https://your-demo-link.com](https://ai-summerizer-by-daksh.netlify.app/)) **
+**[Live Demo](https://ai-summerizer-by-daksh.netlify.app/)** 
+
 
 </div>
 
